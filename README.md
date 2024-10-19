@@ -65,3 +65,10 @@ Feel free to reach out if you want to discuss projects, collaborate, or simply c
 
 ## ⚡ Fun Fact
 In my spare time, I enjoy experimenting with DIY electronics projects and exploring the latest advancements in renewable energy technology! I am also interested in participating in hackathons and engineering competitions to apply my knowledge in real-world scenarios.
+
+## 🔥 Here's a sneak peek at my projects and industrial visits!
+![Electrical Animation](https://media.giphy.com/media/xT9IgoZ8JqEBt7UJCS/giphy.gif)
+
+---
+## ⚡ Fun Fact
+In my spare time, I enjoy experimenting with DIY electronics projects and exploring the latest advancements in renewable energy technology! I am also interested in participating in hackathons and engineering competitions to apply my knowledge in real-world scenarios.
